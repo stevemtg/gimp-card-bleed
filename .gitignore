@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.test-profile/
+.env
+.env.*
+!.env.example

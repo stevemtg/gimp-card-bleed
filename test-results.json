@@ -1,0 +1,256 @@
+{
+  "gimp_version": "3.0.6",
+  "passed": true,
+  "cases": [
+    {
+      "size": [
+        311,
+        419
+      ],
+      "border": 73,
+      "alpha": false,
+      "gray": false,
+      "blend_border": false,
+      "default_blend_setting_used": true,
+      "changed_border_pixels": 85264,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": true,
+      "blend_endpoints_match": null,
+      "seam_pixels_checked": 0,
+      "outer_pixels_checked": 0,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "size": [
+        311,
+        419
+      ],
+      "border": 73,
+      "alpha": true,
+      "gray": false,
+      "blend_border": false,
+      "default_blend_setting_used": true,
+      "changed_border_pixels": 85264,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": true,
+      "blend_endpoints_match": null,
+      "seam_pixels_checked": 0,
+      "outer_pixels_checked": 0,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "size": [
+        147,
+        149
+      ],
+      "border": 73,
+      "alpha": false,
+      "gray": false,
+      "blend_border": false,
+      "default_blend_setting_used": true,
+      "changed_border_pixels": 21900,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": true,
+      "blend_endpoints_match": null,
+      "seam_pixels_checked": 0,
+      "outer_pixels_checked": 0,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "size": [
+        32,
+        43
+      ],
+      "border": 1,
+      "alpha": false,
+      "gray": false,
+      "blend_border": false,
+      "default_blend_setting_used": true,
+      "changed_border_pixels": 146,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": true,
+      "blend_endpoints_match": null,
+      "seam_pixels_checked": 0,
+      "outer_pixels_checked": 0,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "size": [
+        217,
+        253
+      ],
+      "border": 73,
+      "alpha": true,
+      "gray": true,
+      "blend_border": false,
+      "default_blend_setting_used": true,
+      "changed_border_pixels": 47304,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": true,
+      "blend_endpoints_match": null,
+      "seam_pixels_checked": 0,
+      "outer_pixels_checked": 0,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "size": [
+        311,
+        419
+      ],
+      "border": 73,
+      "alpha": false,
+      "gray": false,
+      "blend_border": false,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 85264,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": true,
+      "blend_endpoints_match": null,
+      "seam_pixels_checked": 0,
+      "outer_pixels_checked": 0,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "size": [
+        311,
+        419
+      ],
+      "border": 73,
+      "alpha": false,
+      "gray": false,
+      "blend_border": true,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 85264,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": null,
+      "blend_endpoints_match": true,
+      "seam_pixels_checked": 880,
+      "outer_pixels_checked": 71224,
+      "transition_changes": 12572,
+      "state_restored": true
+    },
+    {
+      "size": [
+        311,
+        419
+      ],
+      "border": 73,
+      "alpha": true,
+      "gray": false,
+      "blend_border": true,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 85264,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": null,
+      "blend_endpoints_match": true,
+      "seam_pixels_checked": 880,
+      "outer_pixels_checked": 71224,
+      "transition_changes": 12358,
+      "state_restored": true
+    },
+    {
+      "size": [
+        217,
+        253
+      ],
+      "border": 73,
+      "alpha": true,
+      "gray": true,
+      "blend_border": true,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 47304,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": null,
+      "blend_endpoints_match": true,
+      "seam_pixels_checked": 360,
+      "outer_pixels_checked": 41064,
+      "transition_changes": 4793,
+      "state_restored": true
+    },
+    {
+      "size": [
+        147,
+        149
+      ],
+      "border": 73,
+      "alpha": false,
+      "gray": false,
+      "blend_border": true,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 21900,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": null,
+      "blend_endpoints_match": true,
+      "seam_pixels_checked": 12,
+      "outer_pixels_checked": 20880,
+      "transition_changes": 294,
+      "state_restored": true
+    },
+    {
+      "size": [
+        64,
+        85
+      ],
+      "border": 2,
+      "alpha": false,
+      "gray": false,
+      "blend_border": true,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 580,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": null,
+      "blend_endpoints_match": true,
+      "seam_pixels_checked": 286,
+      "outer_pixels_checked": 294,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "size": [
+        64,
+        85
+      ],
+      "border": 3,
+      "alpha": true,
+      "gray": false,
+      "blend_border": true,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 858,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": null,
+      "blend_endpoints_match": true,
+      "seam_pixels_checked": 278,
+      "outer_pixels_checked": 294,
+      "transition_changes": 213,
+      "state_restored": true
+    },
+    {
+      "size": [
+        32,
+        43
+      ],
+      "border": 1,
+      "alpha": false,
+      "gray": false,
+      "blend_border": true,
+      "default_blend_setting_used": false,
+      "changed_border_pixels": 146,
+      "center_pixel_exact": true,
+      "unblended_border_matches_reference": true,
+      "blend_endpoints_match": null,
+      "seam_pixels_checked": 0,
+      "outer_pixels_checked": 0,
+      "transition_changes": 0,
+      "state_restored": true
+    },
+    {
+      "invalid_size_rejected_without_changes": true
+    }
+  ]
+}
